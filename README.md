@@ -1,14 +1,14 @@
 # Supermarket-Products-Analysis
 
-## Latar Belakang
-Sebuah supermarket di Texas menjual beberapa jenis product yakni wine, meat, fish, fruit, sweet dan gold product. Supermarket ini telah melakukan pendataan terhadap customernya sejak tahun 2012 hingga 2014 dan ingin mengevaluasi tingkat penjualan produk 3 tahun belakangan ini.
-
 ## About Dataset
 Dataset ini merupakan dataset customer personality yang dimiliki oleh supermarket dari tahun 2012 - 2014. Dataset ini dibagi menjadi 4 kategori, yaitu data customer, product yang dibeli, promosi yang di ambil, dan platform yang digunakan.
 
 Berdasarkan hasil riset yang telah dilakukan, ditemukan bahwa dataset ini diupload oleh Akash Patel (seorang pengajar di Texas) di Kaggle[[1]](https://time.com/6179344/akash-patel-innovative-teachers-2022/). Oleh karena itu, selanjutnya akan diasumsikan bahwa dataset  ini adalah dataset salah satu supermarket yang ada di Texas. Adapun hal-hal yang akan dapat mendukung asumsi ini akan di jelaskan di bagian analisa.
 
 Dataset dan data dictionary dapat diakses [di sini](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis).
+
+## Background
+Sebuah supermarket di Texas menjual beberapa jenis product yakni wine, meat, fish, fruit, sweet dan gold product. Supermarket ini telah melakukan pendataan terhadap customernya sejak tahun 2012 hingga 2014 dan ingin mengevaluasi tingkat penjualan produk 3 tahun belakangan ini.
 
 ## Problem Statement
 Purchasing Manager/Procurement Manager supermarket ingin mengetahui produk apa saja yang penjualannya efektif agar supermarket dapat lebih memaksimalkan profitnya.
