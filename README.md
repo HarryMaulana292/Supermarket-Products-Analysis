@@ -21,3 +21,19 @@ Berikut adalah rangkuman setiap kesimpulan dari hasil analisa sebelumnya.
 1. **Gold** bukanlah produk yang dibutuhkan untuk dikonsumsi setiap hari sebagaimana meat, fish dan lainnya. Customer hanya membeli gold di waktu atau keadaan tertentu seperti ketika mereka memiliki kelebihan dana dan ingin menginvestasikannya dengan membeli gold. Sehingga untuk angka penjualan dari gold terbilang hal yang wajar dan sulit jika ingin ditingkatkan.
 1. Berdasarkan data, dapat dilihat jika customer supermarket paling banyak adalah mereka yang telah married. Kemudian diurutan kedua terbanyak adalah customer yang masih single. Dengan mengetahui banyaknya customer dari segi marital status, kita dapat menyusun strategi terkait product apa yang paling diminati oleh kedua kategori marital status tersebut sehingga dapat lebih meningkatkan penjualan produk dari supermarket itu sendiri.
 1. Meskipun Gen X generasi terbanyak pertama dan baby boomer adalah generasi terbanyak kedua, bukan berarti kita harus memfokuskan product yang paling diminati oleh Gen X dan baby boomer. Kita tetap harus mempertimbangkan bagaimana caranya supermarket ini bisa tetap survive ke depannya. Oleh karena itu, sebaiknya supermarket memfokuskan product yang paling diminati oleh generasi millenial agar total customer millenial supermarket bisa meningkat. Bahkan jika perlu, supermarket juga sudah bisa merancang dan mempersiapkan product untuk generasi Gen Z berikutnya.
+
+### Recommendation
+**Fish**
+
+* Jika ingin meningkatkan penjualan produk fish, supermarket dapat menargetkan event-event tertentu yang ada di texas. Ada beberapa event atau festival yang mengadopsi tema laut seperti [Texas Seafood Festival](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.texasrealfood.com%2Fevents%2Fthe-port-isabel-shrimp-cook-off-seafood-festival-2022%2F&psig=AOvVaw0duo3g2UxqwJjQZF_0rLM2&ust=1684093159160000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKikvoWG8_4CFQAAAAAdAAAAABAE) dan beberapa festival lainnya.
+
+**Sweet**
+* Adapun untuk produk sweet, ini dapat dilakukan bundling dengan produk wine yang merupakan produk yang paling diminati. Hal ini karena produk wine dan makanan manis adalah salah satu menu yang sering disajikan saat acara-acara formal seperti pernikahan, acara bisnis, dan acara-acara formal lainnya. Dengan begitu, penjualan sweet juga bisa lebih meningkat.
+
+**Fruit**
+* Sementara untuk produk fruit, kita bisa bundling dengan produk meat. Hal ini karena kedua produk tersebut memiliki kesinambungan dalam hal gizi. Daging dapat memberikan protein yang dibutuhkan tubuh sementara buah dapat memenuhi asupan vitamin dan mineral dalam tubuh.
+
+### Strategi pengadaan produk untuk menarik lebih banyak customer.
+
+* Karena mayoritas customer supermarket adalah mereka yang telah menikah, maka ada beberapa saran produk yang berpeluang untuk bisa menarik customer sekaligus meningkatkan profit. Produk tersebut adalah produk peralatan rumah tangga dan kesehatan. Hal ini karena orang yang telah menikah akan cenderung membutuhkan peralatan rumah tangga. Selain itu, baik bagi mereka yang masih single maupun bagi mereka yang telah merried dan memiliki anak atau bahkan secara umum akan selalu membutuhkan produk kesehatan.
+*  Beberapa produk yang umumnya diminati oleh generasi millenial adalah produk teknologi seperti smartphone, laptop, maupun aksesorisnya serta beberapa product teknologi lainnya. Hal ini karena generasi millenial adalah generasi yang tidak dapat lepas dari yang namanya teknologi. Tanpa menggunakan teknologi, generasi ini akan terhambat dalam menjalankan aktivitasnya dan akan sulit untuk berkembang. Sehingga jenis produk teknologi adalah pilihan yang tepat jika ingin menarik customer millenial.
