@@ -1,19 +1,19 @@
 # Supermarket-Products-Analysis
 
-### Latar Belakang
+## Latar Belakang
 Sebuah supermarket di Texas menjual beberapa jenis product yakni wine, meat, fish, fruit, sweet dan gold product. Supermarket ini telah melakukan pendataan terhadap customernya sejak tahun 2012 hingga 2014 dan ingin mengevaluasi tingkat penjualan produk 3 tahun belakangan ini.
 
-### About Dataset
+## About Dataset
 Dataset ini merupakan dataset customer personality yang dimiliki oleh supermarket dari tahun 2012 - 2014. Dataset ini dibagi menjadi 4 kategori, yaitu data customer, product yang dibeli, promosi yang di ambil, dan platform yang digunakan.
 
 Berdasarkan hasil riset yang telah dilakukan, ditemukan bahwa dataset ini diupload oleh Akash Patel (seorang pengajar di Texas) di Kaggle[[1]](https://time.com/6179344/akash-patel-innovative-teachers-2022/). Oleh karena itu, selanjutnya akan diasumsikan bahwa dataset  ini adalah dataset salah satu supermarket yang ada di Texas. Adapun hal-hal yang akan dapat mendukung asumsi ini akan di jelaskan di bagian analisa.
 
 Dataset dan data dictionary dapat diakses [di sini](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis).
 
-### Problem Statement
+## Problem Statement
 Purchasing Manager/Procurement Manager supermarket ingin mengetahui produk apa saja yang penjualannya efektif agar supermarket dapat lebih memaksimalkan profitnya.
 
-### Conclusion
+## Conclusion
 Berikut adalah rangkuman setiap kesimpulan dari hasil analisa sebelumnya.
 
 1. Berdasarkan Data Total Penjualan Masing-Masing Produk, kita dapat melihat bahwa penjualan produk **Fish** lebih rendah dibandingkan dengan penjualan produk **Meat**. Hal ini karena texas secara geografi luas perairannya hanya sekitar 2.7% jika dibandingkan dengan luas daratannya (97.3)[[2]](https://www.infoplease.com/us/states/land-and-water-area-of-states). Karena kondisi ini, penduduk di texas yang memiliki minat tinggi terhadap produk fish hanya mereka yang ada di pesisir kota texas seperti [Galveston](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.southernliving.com%2Ftravel%2Ftexas%2Fwhats-new-in-galveston&psig=AOvVaw2r-2J7pErJiwsU0ZMHK5SN&ust=1684091720391000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjK_taA8_4CFQAAAAAdAAAAABAE), [Corpus Christi](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftotallytexastravel.com%2Fthings-to-do-in-corpus-christi%2F&psig=AOvVaw3g0HCJIYmFUkKUfDNtB0P4&ust=1684091775945000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCZ3_GA8_4CFQAAAAAdAAAAABAR), dan [Port Aransas](https://www.google.com/search?q=Port+Aransas&source=lmns&bih=706&biw=1536&rlz=1C1GCEA_enID973ID973&hl=id&sa=X&ved=2ahUKEwjnh-Ky__L-AhV_AbcAHfnuBDsQ_AUoAHoECAEQAA). Adapun penduduk yang jauh dari area pantai atau pesisir, minat terhadap produk fish tidak sebesar mereka yang tinggal di dekat pantai karena kurangnya aksesibilitas untuk bisa mendapatkan produk fish yang segar. Oleh karena itu, mereka memilih produk lain seperti meat.
@@ -22,7 +22,8 @@ Berikut adalah rangkuman setiap kesimpulan dari hasil analisa sebelumnya.
 1. Berdasarkan data, dapat dilihat jika customer supermarket paling banyak adalah mereka yang telah married. Kemudian diurutan kedua terbanyak adalah customer yang masih single. Dengan mengetahui banyaknya customer dari segi marital status, kita dapat menyusun strategi terkait product apa yang paling diminati oleh kedua kategori marital status tersebut sehingga dapat lebih meningkatkan penjualan produk dari supermarket itu sendiri.
 1. Meskipun Gen X generasi terbanyak pertama dan baby boomer adalah generasi terbanyak kedua, bukan berarti kita harus memfokuskan product yang paling diminati oleh Gen X dan baby boomer. Kita tetap harus mempertimbangkan bagaimana caranya supermarket ini bisa tetap survive ke depannya. Oleh karena itu, sebaiknya supermarket memfokuskan product yang paling diminati oleh generasi millenial agar total customer millenial supermarket bisa meningkat. Bahkan jika perlu, supermarket juga sudah bisa merancang dan mempersiapkan product untuk generasi Gen Z berikutnya.
 
-### Recommendation
+## Recommendation
+### Strategi untuk meningkatkan penjualan produk yang telah ada.
 **Fish**
 
 * Jika ingin meningkatkan penjualan produk fish, supermarket dapat menargetkan event-event tertentu yang ada di texas. Ada beberapa event atau festival yang mengadopsi tema laut seperti [Texas Seafood Festival](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.texasrealfood.com%2Fevents%2Fthe-port-isabel-shrimp-cook-off-seafood-festival-2022%2F&psig=AOvVaw0duo3g2UxqwJjQZF_0rLM2&ust=1684093159160000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKikvoWG8_4CFQAAAAAdAAAAABAE) dan beberapa festival lainnya.
